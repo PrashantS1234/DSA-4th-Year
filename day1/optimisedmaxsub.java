@@ -1,3 +1,4 @@
+package day1;
 public class optimisedmaxsub {
 
     public static int kadanes(int[] nums) {

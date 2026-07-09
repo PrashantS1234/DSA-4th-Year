@@ -1,5 +1,5 @@
-package day2;
 
+package day2;
 class Node {
     int data;
     Node next;

@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-public class removenthnode {
+public class removeNthNode {
 
     public static Node removeNthFromEnd(Node head, int n) {
 

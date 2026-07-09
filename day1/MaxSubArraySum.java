@@ -1,6 +1,5 @@
 package day1;
-
-public class MaxSubArraySum  {
+public class MaxSubArraySum {
 
     public static int maxSubArrayBrute(int[] nums) {
 

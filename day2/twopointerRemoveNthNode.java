@@ -9,7 +9,7 @@ class Node {
     }
 }
 
-public class twopointerremoventhnode {
+public class twopointerRemoveNthNode {
 
 
     static Node removeNthFromEndtwopointer(Node head, int n) {
