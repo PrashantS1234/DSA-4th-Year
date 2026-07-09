@@ -1,5 +1,3 @@
-package day1;
-
 public class SubarraySum {
 
     public static int SubarraySumBrute(int[] nums, int k) {
