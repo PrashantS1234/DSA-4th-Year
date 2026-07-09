@@ -52,5 +52,6 @@ public class ShortestSubarrayWithSumAtLeastK {
         int result = shortestSubarray(nums, k);
 
         System.out.println("Shortest Subarray Length = " + result);
+        sc.close(); 
     }
 }
